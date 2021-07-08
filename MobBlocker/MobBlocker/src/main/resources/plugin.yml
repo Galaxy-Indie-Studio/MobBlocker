@@ -1,0 +1,6 @@
+name: MobBlocker
+version: ${project.version}
+main: me.bigtallahasee.mobblocker.MobBlocker
+api-version: 1.17
+authors: [ Bigtallahasee ]
+description: This plugin will allow you to easily blacklist any mob that you please!

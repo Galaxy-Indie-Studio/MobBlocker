@@ -1,0 +1,85 @@
+#--------------------------------------------------------------------
+#               Mob Blocker
+#--------------------------------------------------------------------
+# (This has all of the mobs to current date(7/8/2021))
+# I Hope you all enjoy this plugin! If you all do, Leave a 5 star review!
+# If you all need any support at all Join our discord!!!
+# https://discord.gg/PSZS7WnuG2 (This link never expire)
+#--------------------------------------------------------------------
+# PassiveMobs
+#-----------------------------------
+Block-Villager: true
+Block-Chicken: true
+Block-Cow: true
+Block-Sheep: true
+Block-Rabbit: true
+Block-Ocelot: true
+Block-Horse: true
+Block-Pig: true
+Block-Fox: true
+Block-Bat: true
+Block-Cod: true
+Block-Salmon: true
+Block-Mooshrom: true
+Block-Squid: true
+Block-Strider: true
+Block-Tropical-Fish: true
+Block-Turtle: true
+Block-Wandering-Trader: true
+Block-Pufferfish: true
+Block-Axolotl: true
+Block-Glow-Squid: true
+Block-Donkey: true
+Block-Cat: true
+Block-Parrot: true
+Block-Mule: true
+Block-Dolphin: true
+Block-Zombie-Horse: true
+Block-Skeleton-Horse: true
+#-----------------------------------
+# Neutral Mobs
+#-----------------------------------
+Block-Polar-Bear: true
+Block-Trader-Llama: true
+Block-Llama: true
+Block-Panda: true
+Block-Bee: true
+Block-Iron-Golem: true
+Block-Goat: true
+Block-Wolf: true
+#-----------------------------------
+# Hostile Mobs
+#-----------------------------------
+Block-Creeper: true
+Block-Witch: true
+Block-Enderman: true
+Block-Slime: true
+Block-Skeleton: true
+Block-Spider: true
+Block-Cave-Spider: true
+Block-Zombie-Pigman: true
+Block-Piglin: true
+Block-Evoker: true
+Block-Vindicator: true
+Block-Pillager: true
+Block-Ravager: true
+Block-Vex: true
+Block-Endermite: true
+Block-Guardian: true
+Block-Elder-Guardian: true
+Block-Shulker: true
+Block-Husk: true
+Block-Stray: true
+Block-Phantom: true
+Block-Blaze: true
+Block-Ghast: true
+Block-Magma-Cube: true
+Block-Silverfish: true
+Block-Zombie-Villager: true
+Block-Drowned: true
+Block-Wither-Skeleton: true
+Block-Hoglin: true
+Block-Zoglin: true
+Block-Piglin-Brute: true
+Block-Ender-Dragon: true
+Block-Wither: true
