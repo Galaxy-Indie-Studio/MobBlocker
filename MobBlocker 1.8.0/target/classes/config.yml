@@ -1,0 +1,95 @@
+#--------------------------------------------------------------------
+#               Mob Blocker
+#--------------------------------------------------------------------
+# (This has all of the mobs to current date(7/8/2021))
+# I Hope you all enjoy this plugin! If you all do, Leave a 5 star review!
+# If you all need any support at all Join our discord!!!
+# https://discord.gg/PSZS7WnuG2 (This link never expire)
+#--------------------------------------------------------------------
+# Permissions
+# mobblocker.block.* = This permission allows you to enable/disable all of the mobs
+# mobblocker.(MobType) = This permission allows you to enable/disable certain mobs
+# Some examples of mobblocker.(MobType) would be mobblocker.axolotl. This would
+# then allow the player to enable/disable axolotl spawn!
+#-------------------------------------------------------------------------------
+# PassiveMobs
+#-----------------------------------
+Block-Villager: false
+Block-Chicken: false
+Block-Cow: false
+Block-Sheep: false
+Block-Rabbit: false
+Block-Ocelot: false
+Block-Horse: false
+Block-Pig: false
+Block-Fox: false
+Block-Bat: false
+Block-Cod: false
+Block-Salmon: false
+Block-Mooshrom: false
+Block-Squid: false
+Block-Strider: false
+Block-Tropical-Fish: false
+Block-Turtle: false
+Block-Wandering-Trader: false
+Block-Pufferfish: false
+Block-Axolotl: false
+Block-Glow-Squid: false
+Block-Donkey: false
+Block-Cat: false
+Block-Parrot: false
+Block-Mule: false
+Block-Dolphin: false
+Block-Zombie-Horse: false
+Block-Skeleton-Horse: false
+#-----------------------------------
+# Neutral Mobs
+#-----------------------------------
+Block-Polar-Bear: false
+Block-Trader-Llama: false
+Block-Llama: false
+Block-Panda: false
+Block-Bee: false
+Block-Iron-Golem: false
+Block-Goat: false
+Block-Wolf: false
+#-----------------------------------
+# Hostile Mobs
+#-----------------------------------
+Block-Creeper: false
+Block-Witch: false
+Block-Enderman: false
+Block-Slime: false
+Block-Skeleton: false
+Block-Spider: false
+Block-Cave-Spider: false
+Block-Zombie-Pigman: false
+Block-Piglin: false
+Block-Evoker: false
+Block-Vindicator: false
+Block-Pillager: false
+Block-Ravager: false
+Block-Vex: false
+Block-Endermite: false
+Block-Guardian: false
+Block-Elder-Guardian: false
+Block-Shulker: false
+Block-Husk: false
+Block-Stray: false
+Block-Phantom: false
+Block-Blaze: false
+Block-Ghast: false
+Block-Magma-Cube: false
+Block-Silverfish: false
+Block-Zombie-Villager: false
+Block-Drowned: false
+Block-Wither-Skeleton: false
+Block-Hoglin: false
+Block-Zoglin: false
+Block-Piglin-Brute: false
+Block-Ender-Dragon: false
+Block-Wither: false
+Block-Zombie: false
+Block-Warden: false
+
+

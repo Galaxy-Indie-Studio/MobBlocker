@@ -1,0 +1,8 @@
+name: MobBlocker
+version: 1.8.0-SNAPSHOT
+main: me.bigtallahasee.mobblocker.MobBlocker
+authors: [ Bigtallahasee ]
+description: This plugin will allow you to easily blacklist any mob that you please!
+commands:
+  mb:
+    description: This is the command to do anything you need with this plugin!
